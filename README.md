@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## Skills
+## Skills:
 
 - **Languages:** C/C++, Java
 - **Databases:** MySQL
