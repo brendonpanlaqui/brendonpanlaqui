@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+## Skills
+
+- **Languages:** C/C++, Java
+- **Databases:** MySQL
+- **Operating System:** Linux, Windows
+
+Happy coding! 🚀
+
 <!--
 **Gamebrendon/Gamebrendon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
