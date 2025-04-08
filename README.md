@@ -1,9 +1,10 @@
-### Hi there 👋
+<h1 align="center">Hi there 👋, I'm Brendon L. Panlaqui</h1>
+<h3 align="center">A Bachelor of Science in Computer Science student from City College of Angeles. 🇵🇭</h3>
 
 ## Skills:
 
-- **Languages:** C/C++, Java
-- **Databases:** MySQL
+- **Languages:** C/C++, Java, Python, PHP, HTML. CSS, Javascript,
+- **Databases:** MySQL, Firebase
 - **Operating System:** Linux, Windows
 
 Happy coding! 🚀
